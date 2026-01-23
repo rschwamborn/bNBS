@@ -5,5 +5,6 @@ Data and R scripts for the paper: "Is normalized biomass really abundance? Pitfa
 
 Data and R scripts for bNBSS (new NBSS method), "back-transformed  and normalized numbers size spectrum" (Biomass vs body mass spectrum, normalized, redimensionalized, and  rescaled), with synthetic and in situ example data.
 
-Ralf Schwamborn 
+Ralf Schwamborn,
+
  January 2026
