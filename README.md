@@ -1,4 +1,4 @@
-# new_method_bnbss
+# new method: bNBSS 
 
 Data and R scripts for the paper: "Is normalized biomass really abundance? Pitfalls, artifacts, and misconceptions in the field of size spectra analysis - with a case for the use of back-transformed spectra (bNBSS)" 
 
